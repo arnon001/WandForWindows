@@ -1,0 +1,11 @@
+{
+  "name": "wand-for-windows",
+  "version": "1.0.0",
+  "description": "Wand for windows",
+  "main": "index.js",
+  "author": "arnon001 (Arnon Hacohen) <arnonhacohen123@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
